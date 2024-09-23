@@ -14,7 +14,7 @@
 - Modern front-end technologies and best practices.
 
 - 📫 How to reach me **ahmetberktas50@gmail.com**
-- 📄 <a href="https://drive.google.com/uc?export=download&id=16v94Xc38fdHsQp6Iw7qpGXggAhB2XfY5" target="_blank">Download my CV</a>
+- 📄 <a href="https://drive.google.com/uc?export=download&id=1emdW3GQKfs953YxIV5c4w__HbDGeAeWN" target="_blank">Download my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
